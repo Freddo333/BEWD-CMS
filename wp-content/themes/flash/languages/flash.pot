@@ -1,0 +1,520 @@
+# Copyright (C) 2020 Flash
+# This file is distributed under the same license as the Flash package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flash\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:53, comments.php:75
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56, comments.php:78
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57, comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:59
+msgid "Primary"
+msgstr ""
+
+#: functions.php:60
+msgid "Social"
+msgstr ""
+
+#: functions.php:61
+msgid "Footer"
+msgstr ""
+
+#: functions.php:154, inc/meta-boxes.php:19
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:156
+msgid "Add widgets here for right sidebar."
+msgstr ""
+
+#: functions.php:164, inc/meta-boxes.php:24
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:166
+msgid "Add widgets here for left sidebar."
+msgstr ""
+
+#: functions.php:174
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:176
+msgid "Add widgets here for footer sidebar 1."
+msgstr ""
+
+#: functions.php:184
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:186
+msgid "Add widgets here for footer sidebar 2."
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:196
+msgid "Add widgets here for footer sidebar 3."
+msgstr ""
+
+#: functions.php:204
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:206
+msgid "Add widgets here for footer sidebar 4."
+msgstr ""
+
+#: header.php:59
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-flash-site-library.php:73
+msgid "Themes list"
+msgstr ""
+
+#: inc/class-flash-site-library.php:87
+msgid "Pro"
+msgstr ""
+
+#: inc/class-flash-site-library.php:102
+msgid "Get started with Flash"
+msgstr ""
+
+#: inc/class-flash-site-library.php:102
+msgid "Import"
+msgstr ""
+
+#: inc/class-flash-site-library.php:106
+msgid "Preview"
+msgstr ""
+
+#: inc/class-flash-site-library.php:111
+msgid "Buy Now"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Transparent Logo"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Different Logo for Retina Devices?"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Flash Theme Options"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Disable Preloader?"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Disable Back to Top Button?"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Top Header Left Content"
+msgstr ""
+
+#: inc/customizer.php:175, inc/customizer.php:201
+msgid "Social Menu"
+msgstr ""
+
+#: inc/customizer.php:176, inc/customizer.php:202
+msgid "Top Header Text"
+msgstr ""
+
+#: inc/customizer.php:177, inc/customizer.php:203
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Top Header Right Content"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Top Header Text Content"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Logo and Menu Position"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Remove Header Search Box"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Remove Header Cart Icon"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Page Header Settings"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Remove breadcrumbs from page header"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Page Header Background"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Archive Page Settings"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer.php:385
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Remove date from post meta"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Remove author from post meta"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Remove comment count from post meta"
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "Remove category from post meta"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Remove tag from post meta"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer.php:482
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:502
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Display Related Posts By:"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Remove Author Bio from post"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "Remove next/previous link from post"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer.php:573
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:591
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/customizer.php:636
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Google Font Settings"
+msgstr ""
+
+#: inc/customizer.php:666
+msgid "Body Typography"
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:810
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:831
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer.php:852
+msgid "Secondary Text Color"
+msgstr ""
+
+#: inc/customizer.php:868
+msgid "View Pro version"
+msgstr ""
+
+#: inc/customizer.php:1012
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:1021
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:1030
+msgid "Gray"
+msgstr ""
+
+#: inc/customizer.php:1039
+msgid "Red"
+msgstr ""
+
+#: inc/customizer.php:1048
+msgid "Yellow"
+msgstr ""
+
+#: inc/extras.php:129
+msgid "Copyright %1$s %2$s"
+msgstr ""
+
+#: inc/extras.php:131
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/extras.php:132
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/extras.php:132
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/extras.php:132
+msgid "WordPress"
+msgstr ""
+
+#: inc/extras.php:151
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:343
+msgid "404 Error"
+msgstr ""
+
+#: inc/extras.php:338
+msgid "Search results for: "
+msgstr ""
+
+#: inc/extras.php:333
+msgid "Page "
+msgstr ""
+
+#: inc/extras.php:317, inc/extras.php:309, inc/extras.php:309, inc/extras.php:309, inc/extras.php:296, inc/extras.php:296, inc/extras.php:296, inc/extras.php:299
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:312, inc/extras.php:299, inc/extras.php:299, inc/extras.php:299, inc/extras.php:302
+msgid "M"
+msgstr ""
+
+#: inc/extras.php:302
+msgid "jS"
+msgstr ""
+
+#: inc/extras.php:365
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/extras.php:363
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/meta-boxes.php:14
+msgid "Default Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:29
+msgid "Full Width"
+msgstr ""
+
+#: inc/meta-boxes.php:34
+msgid "Full Width Center"
+msgstr ""
+
+#: inc/meta-boxes.php:42
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/meta-boxes.php:47
+msgid "Non Transparent Header"
+msgstr ""
+
+#: inc/meta-boxes.php:55, inc/meta-boxes.php:56
+msgid "Select Layout"
+msgstr ""
+
+#: inc/meta-boxes.php:57
+msgid "Header Transparency"
+msgstr ""
+
+#: inc/related-posts.php:8
+msgid "You May Also Like"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:43
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59, inc/template-tags.php:67
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:77, template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-page.php:25, template-parts/content.php:67
+msgid "Pages:"
+msgstr ""
