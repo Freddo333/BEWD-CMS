@@ -1,0 +1,1210 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArileWP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-27 12:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: comments.php:26
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#. %1$s: 404
+#: inc/template-tags.php:129
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. %1$s %2$s: day
+#. %1$s %2$s: month
+#. %1$s %2$s: year
+#. %1$s %2$s: author
+#. %1$s %2$s: category
+#. %1$s %2$s: tag
+#. %1$s %2$s: WooCommerce
+#. %1$s %2$s: search
+#: inc/template-tags.php:101 inc/template-tags.php:104
+#: inc/template-tags.php:107 inc/template-tags.php:110
+#: inc/template-tags.php:113 inc/template-tags.php:116
+#: inc/template-tags.php:119 inc/template-tags.php:136
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: template-parts/content-single.php:22 template-parts/content.php:27
+msgid ", "
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "//fontawesome.io/icons/"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:55
+msgid "02 Unique Business Homepage Section Styles."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:47
+msgid "04 Unique Header Styles."
+msgstr ""
+
+#: inc/admin/getting-started.php:164
+msgid "1 Year Free Updates"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:206
+msgid "24/7 HelpDesk Professional Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:171
+msgid "4 Unique Header Layouts"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgid "404"
+msgstr ""
+
+#. %1$s %2$s: about
+#: inc/admin/getting-started.php:20
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:64
+msgid ""
+"About 1, About 2, Service 1, Service 2, Contact 1, Contact 2, Portfolio 2, 3,"
+" 4 Columns"
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:97
+#: inc/customizer/arilewp-customizer-options.php:200
+msgid "Activate"
+msgstr ""
+
+#: inc/customizer/customizer-notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr ""
+
+#: inc/admin/getting-started.php:38
+msgid "Activating "
+msgstr ""
+
+#: inc/class-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:625
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:658
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: inc/admin/getting-started.php:157
+msgid "Additional Css Box"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:96
+msgid "Advance Blog Layout Styles"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:88
+msgid "Advance Typography with Google Fonts Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:174
+msgid "Advanced Blog Layouts"
+msgstr ""
+
+#: inc/admin/getting-started.php:170
+msgid "Advanced Typography"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "All posts by"
+msgstr ""
+
+#: inc/customizer/controls/code/arilewp-customize-upgrade-control.php:36
+msgid "and get the other pro features."
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:58
+msgid "Archive Blog Pages"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgid "Archive by category"
+msgstr ""
+
+#: inc/template-tags.php:101 inc/template-tags.php:104
+#: inc/template-tags.php:107
+msgid "Archives"
+msgstr ""
+
+#: inc/admin/tabs/recommended-plugins-panel.php:27
+msgid ""
+"Arile Extra Plugin requires you to be highly recommended. And after "
+"installing it, you will be able to show all the front page features and, all "
+"business sections of the FrontPage."
+msgstr ""
+
+#. Name of the theme
+#: inc/admin/tabs/free-vs-pro-panel.php:14
+msgid "ArileWP"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:172
+msgid ""
+"ArileWP comes in a boxed or a wide layout, and can easily be changed in the "
+"customizer."
+msgstr ""
+
+#: inc/admin/getting-started.php:91
+msgid ""
+"ArileWP is a creative and professional multipurpose WordPress theme that is "
+"suited for business, consultant, finance, digital agency, industries, online "
+"shop and many other various site types."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"ArileWP is a powerful, modern and professional multipurpose WordPress theme "
+"with pixel perfect design and outstanding functionality. As well as "
+"sophisticated plus it has some exotic features like customization and clean "
+"code, advanced typography, sticky menu, logo upload, header image, Bootstrap "
+"4 framework, built with SEO in mind, and theme info area besides being "
+"Mobile ready, translation ready (WPML, Polylang) and it's built to be "
+"beautiful on all screen sizes. The theme perfectly suited for business, "
+"consultant, finance, corporate, freelancer, agency, business promotion, "
+"electrician, industries, education, SEO, construction, fashion, online shop, "
+"health &amp; medical, Beauty &amp; spa salons, wedding, photography, gym, "
+"cafe, music, architecture, lawyer, restaurant, hotel, blog, magazine, travel "
+"agency and many other websites compatible. This theme supports the best "
+"Elementor page builder to create, edit and updates page designs as per the "
+"requirement. ArileWP also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics and much more. Check the demo of ArileWP Pro https:"
+"//themearile.com/arilewp-pro-theme/."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:15
+msgid "ArileWP Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:160
+msgid "ArileWP Pro Theme Features"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "at"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:56
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:91
+msgid "Base Typography"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:38
+msgid "Blog"
+msgstr ""
+
+#: inc/admin/getting-started.php:155
+msgid "Blog Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:98
+msgid ""
+"Blog Standard Right & Left Sidebar, Fullwidth, Blog Grid View Right & Left "
+"Sidebar, Blog Grid View Fullwidth, Blog List View Right & Left Sidebar, Blog "
+"List View Fullwidth, Blog Masonry 2, 3, 4 Column Layout."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:97
+msgid "Blog Standard Right Sidebar, Fullwidth."
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:26
+msgid "Blog/Archive/Single"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:106
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#. Name of the template
+msgid "Builder Page"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:36 template-parts/content.php:42
+msgid "by "
+msgstr ""
+
+#: inc/template-tags.php:113
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Center"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:12
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template for the Default Page Templates"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr ""
+
+#: inc/admin/getting-started.php:146
+msgid "Colors Options"
+msgstr ""
+
+#: comments.php:63
+msgid "Comment"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/admin/getting-started.php:211
+#, php-format
+msgid "Congratulations, Welcome to %1$s Theme"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:38
+msgid ""
+"Contact form 7 is the most popular plugin. And ArileWP theme is fully "
+"compatible with this plugin. By using this plugin you will be able to create "
+"an amazing contact form on your website."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:71
+msgid "Contact Form 7 Support"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:64
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:65
+msgid "Container Full"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:61
+msgid "Container Width"
+msgstr ""
+
+#: footer.php:14 inc/customizer/arilewp-customizer-options.php:147
+msgid ""
+"Copyright &copy; 2020 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> ArileWP theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/admin/getting-started.php:165
+msgid "Dark & Light Layout Styles"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:138
+msgid "Dark Color Style."
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:112
+#: inc/customizer/arilewp-customizer-options.php:201
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:42
+msgid ""
+"Do you want to sell your product online? ArileWP is the fully WooCommerce "
+"compatible theme, through which you can easily create your online store and "
+"sell your products online."
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:17
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:43
+msgid ""
+"Drag & Drop post items to re-arrange the order and also hide and show items "
+"as per the need by clicking on the eye icon."
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:46
+msgid ""
+"Elementor is the World best WordPress Page Builder, So you can create "
+"beautiful pages with intuitive drag and drop interface. And make pixel "
+"perfect websites at record speeds."
+msgstr ""
+
+#: comments.php:55
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:84
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:32
+msgid "Enable Typography"
+msgstr ""
+
+#: inc/template-tags.php:214
+msgid "Error 404"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:15
+msgid "Extensive Documentation"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:62
+msgid "Extra Page Templates"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:205
+msgid "Fast & Friendly Support"
+msgstr ""
+
+#: template-parts/content.php:25
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:43
+#: inc/customizer/arilewp-customizer-options.php:70
+#: inc/customizer/arilewp-customizer-options.php:83
+#: inc/customizer/arilewp-customizer-options.php:96
+#: inc/customizer/arilewp-customizer-options.php:109
+#: inc/customizer/arilewp-customizer-options.php:122
+#: inc/customizer/arilewp-customizer-options.php:135
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:58
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:54
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:152
+#: inc/customizer/arilewp-panels-and-sections.php:67
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-copyright-customizer-settings.php:29
+msgid "Footer Copyright Enable/Disable"
+msgstr ""
+
+#: inc/admin/getting-started.php:156
+msgid "Footer Options"
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Sidebar Four"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:137
+msgid "Footer Styles"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:30
+msgid "Footer Widget Area Enable/Disable"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:60
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:38
+#: inc/admin/tabs/free-vs-pro-panel.php:63
+#: inc/admin/tabs/free-vs-pro-panel.php:80
+#: inc/admin/tabs/free-vs-pro-panel.php:97
+#: inc/admin/tabs/free-vs-pro-panel.php:138
+msgid "Free"
+msgstr ""
+
+#: inc/admin/getting-started.php:124
+msgid "Free Vs Pro"
+msgstr ""
+
+#. Name of the template
+msgid "Frontpage"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:37
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:63
+msgid "Frontpage, Blog Fullwidth"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:22
+msgid ""
+"Fully Responsive layout. Works on any screen size and display beautifully."
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:44
+msgid "General"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:175
+#: inc/admin/tabs/free-vs-pro-panel.php:213
+msgid "Get ArileWP Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:215
+msgid "Get started with ArileWP"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:13
+msgid "Get Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:106
+msgid "Getting Started"
+msgstr ""
+
+#: searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: 404.php:22
+msgid "Go to Home"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:20
+#: inc/admin/tabs/getting-started-panel.php:22
+msgid "Go to the Customizer"
+msgstr ""
+
+#: inc/admin/getting-started.php:166
+msgid "Google Font Support"
+msgstr ""
+
+#: inc/customizer/controls/code/arilewp-customize-typography-control.php:50
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:197
+msgid "Google Map"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:20
+msgid "Header"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:46
+msgid "Header Style Variations"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:98
+msgid "Headings H1"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:104
+msgid "Headings H2"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:110
+msgid "Headings H3"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:116
+msgid "Headings H4"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:122
+msgid "Headings H5"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:128
+msgid "Headings H6"
+msgstr ""
+
+#: inc/template-tags.php:172 inc/template-tags.php:175
+msgid "Home"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:54
+msgid "Homepage Section Layout Styles"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/arilewp-theme/"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:533
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:593
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:17
+msgid ""
+"If you are enjoying our arilewp theme. So we will be waiting for your "
+"beautiful feedback. We will appreciate you with love."
+msgstr ""
+
+#. %s: plugin name
+#: inc/customizer/arilewp-customizer-options.php:194
+#, php-format
+msgid ""
+"If you want to show all the features and business sections of the FrontPage. "
+"please install and activate %s plugin"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:556
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Image type"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:199
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:72
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:100
+msgid "Layout"
+msgstr ""
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:16
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Left"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:81
+msgid "Light and Dark Color Skins"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:80
+msgid "Light Color Skin"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:139
+msgid "Light, Dark & Custom Color Style."
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:617
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:639
+msgid "Link"
+msgstr ""
+
+#: inc/admin/getting-started.php:142
+msgid "Links to Customizer Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:162
+msgid "Live Customizer"
+msgstr ""
+
+#: comments.php:65
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:65
+msgid "Logout"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:114
+msgid "Make your business website in RTL Language support."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:122
+msgid "Make your website fast on all devices."
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:29
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:27
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:42
+msgid "Menu Style"
+msgstr ""
+
+#: inc/admin/getting-started.php:144
+msgid "Menus Options"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:46
+msgid "Meta One"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:48
+msgid "Meta Two"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:21
+msgid "Mobile Friendly Design"
+msgstr ""
+
+#: inc/admin/getting-started.php:163 inc/admin/tabs/free-vs-pro-panel.php:146
+msgid "Multilingual Ready"
+msgstr ""
+
+#: comments.php:54
+msgid "Name"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:26
+msgid "No Comments"
+msgstr ""
+
+#: inc/customizer/customizer-settings/arilewp-customize-base-customizer-settings.php:74
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "None"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:538
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: comments.php:26
+msgid "One comment"
+msgstr ""
+
+#: 404.php:20
+msgid "OOPS, SORRY WE CAN'T FIND THAT PAGE !"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Open link in new tab:"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:21
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:29
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:42
+msgid "Page Header Enable/Disable"
+msgstr ""
+
+#: inc/admin/getting-started.php:145
+msgid "Page Header Options"
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: inc/admin/getting-started.php:176
+msgid "Priority Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:39
+#: inc/admin/tabs/free-vs-pro-panel.php:64
+#: inc/admin/tabs/free-vs-pro-panel.php:81
+#: inc/admin/tabs/free-vs-pro-panel.php:98
+#: inc/admin/tabs/free-vs-pro-panel.php:139
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:153
+msgid "Project Options"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:16
+msgid ""
+"Read detailed documentation of the theme. The documentation has all the "
+"necessary information to set up the theme. Which will help you set up the "
+"theme."
+msgstr ""
+
+#: inc/template-tags.php:82 template-parts/content-single.php:45
+#: template-parts/content.php:52
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:173
+msgid "Ready for more?"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:30
+msgid ""
+"Ready for Online Shop. You can create your online shop with WooCommerce."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/admin/getting-started.php:111
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:10
+msgid "Recommended actions"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:198
+msgid "Recommended Plugin"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:620
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:650
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Reply"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Right"
+msgstr ""
+
+#: inc/metabox.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/getting-started.php:168 inc/admin/tabs/free-vs-pro-panel.php:113
+msgid "RTL Support"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:136
+msgid "Search results for"
+msgstr ""
+
+#: inc/admin/getting-started.php:172 inc/admin/tabs/free-vs-pro-panel.php:163
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:189
+msgid "SEO (Search Engine Optimization) Ready"
+msgstr ""
+
+#: inc/admin/getting-started.php:152
+msgid "Service Options"
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:31
+msgid "Set Sticky Bar Logo"
+msgstr ""
+
+#: inc/template-tags.php:119
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:198
+msgid "Shows the physical location with an interactive contact form."
+msgstr ""
+
+#: inc/metabox.php:10
+msgid "Sidebar Layout"
+msgstr ""
+
+#: functions.php:118
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:87
+msgid "Single Blog Pages"
+msgstr ""
+
+#: inc/admin/getting-started.php:143
+msgid "Site Logo"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:568
+msgid "Slide Content Format"
+msgstr ""
+
+#: inc/admin/getting-started.php:150
+msgid "Slider Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:38
+msgid ""
+"Slider with Two Slides, Theme Info Area, Services, Projects, Testimonials, "
+"Blog/News"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:39
+msgid ""
+"Slider with Unlimited Slides, Theme Info Area, Services, Projects, Funfacts, "
+"Testimonials, Shop, Call to Action, Team, Blog/News, Clients"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "Social icons"
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:121
+msgid "Speed Performance"
+msgstr ""
+
+#: inc/customizer/controls/code/arilewp-customize-typography-control.php:39
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:46
+msgid "Static"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:45
+msgid "Sticky"
+msgstr ""
+
+#: inc/admin/getting-started.php:161
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:12
+msgid ""
+"Still having a problem after using all the documentation? No Problem!! Our "
+"dedicated support team will help you to solve your problem. Hope you are "
+"enjoying our ArileWP theme."
+msgstr ""
+
+#: comments.php:67
+msgid "Submit"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:18
+msgid "Submit a review"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr ""
+
+#: inc/admin/getting-started.php:129 inc/admin/tabs/support-and-review.php:11
+msgid "Support"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Tag"
+msgstr ""
+
+#: inc/admin/getting-started.php:154
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:270
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:419
+msgid "Text"
+msgstr ""
+
+#: inc/admin/getting-started.php:213
+#, php-format
+msgid ""
+"Thank you for choosing ArileWP theme. To take full advantage of the complete "
+"features of the theme, you have to go to our %1$s welcome page %2$s."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:147
+msgid ""
+"The Premium Version is fully compatible with WPML and Poylang. Create your "
+"website in multiple languages."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:72
+msgid "The theme fully supports the contact form 7 plugin."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:130
+msgid "The whole footer of ArileWP WordPress theme is widget ready."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:79
+msgid "Theme Color Skins"
+msgstr ""
+
+#: inc/admin/getting-started.php:151
+msgid "Theme Info Area Options"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:12
+msgid "Theme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: comments.php:20
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:256
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:47
+msgid "Title"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:155
+msgid "Top Header Bar Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:105
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/customizer/arilewp-panels-and-sections.php:78
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/getting-started.php:147
+msgid "Typography Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:173
+msgid "Unlimited Business Sections"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:180
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:167
+msgid "Unlimited Color Schemes"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:559
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin/getting-started.php:119
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:21
+msgid ""
+"Using the WordPress Customizer you can easily customize every single aspect "
+"of the theme."
+msgstr ""
+
+#: inc/admin/getting-started.php:175
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:309
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:17
+#: inc/admin/tabs/getting-started-panel.php:22
+msgid "Visit the Support"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:11
+msgid ""
+"We have compiled a list of steps for you, to take make sure the experience "
+"you will have using one of our products is very easy to follow. So kindly "
+"activate the plugin Arile Extra."
+msgstr ""
+
+#. %1$s: welcome page
+#: inc/admin/getting-started.php:22
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#. %1$s %2$s: welcome message
+#: inc/admin/getting-started.php:90
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:190
+msgid "Which is help to increase the amount of visitors to a website."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:171
+msgid "Wide & Boxed Layout"
+msgstr ""
+
+#: inc/admin/getting-started.php:169
+msgid "Wide & Boxed Layouts"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:129
+msgid "Widgetized Footer Area"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:29
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: functions.php:126
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:156
+msgid ""
+"You can easily add/modify site info and social icons. Also change the header "
+"background color."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:164
+msgid "You can easily drag and drop the front page sections with ordering."
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:59
+msgid "You can enter font-size in px or rem "
+msgstr ""
+
+#: inc/customizer/arilewp-customizer-options.php:32
+msgid "You can Upload the Standrad size of logo (210px*39px)"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:181
+msgid "You can use any type of theme color as you want."
+msgstr ""
+
+#. %1$s %2$s: logged in
+#: comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:89
+msgid ""
+"You will be able to change font style as you want and select your desired "
+"font."
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "Your comment is awaiting moderation."
+msgstr ""

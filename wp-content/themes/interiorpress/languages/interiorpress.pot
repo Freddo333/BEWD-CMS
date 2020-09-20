@@ -1,0 +1,604 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: InteriorPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-01 08:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: inc/admin/tabs/free-vs-pro-panel.php:55
+msgid "02 Unique Business Homepage Section Styles."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:47
+msgid "04 Unique Header Styles."
+msgstr ""
+
+#: inc/admin/getting-started.php:158
+msgid "1 Year Free Updates"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:206
+msgid "24/7 HelpDesk Professional Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:165
+msgid "4 Unique Header Layouts"
+msgstr ""
+
+#. %1$s %2$s: about
+#: inc/admin/getting-started.php:20
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:64
+msgid ""
+"About 1, About 2, Service 1, Service 2, Contact 1, Contact 2, Portfolio 2, 3,"
+" 4 Columns"
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:97
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/getting-started.php:38
+msgid "Activating "
+msgstr ""
+
+#: inc/admin/getting-started.php:151
+msgid "Additional Css Box"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:96
+msgid "Advance Blog Layout Styles"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:88
+msgid "Advance Typography with Google Fonts Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:167
+msgid "Advanced Blog Layouts"
+msgstr ""
+
+#: inc/admin/getting-started.php:164
+msgid "Advanced Typography"
+msgstr ""
+
+#: inc/admin/tabs/recommended-plugins-panel.php:27
+msgid ""
+"Arile Extra Plugin requires you to be highly recommended. And after "
+"installing it, you will be able to show all the front page features and, all "
+"business sections of the FrontPage."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:14
+msgid "ArileWP"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:172
+msgid ""
+"ArileWP comes in a boxed or a wide layout, and can easily be changed in the "
+"customizer."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:15
+msgid "ArileWP Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:154
+msgid "ArileWP Pro Theme Features"
+msgstr ""
+
+#: inc/admin/getting-started.php:149
+msgid "Blog Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:98
+msgid ""
+"Blog Standard Right & Left Sidebar, Fullwidth, Blog Grid View Right & Left "
+"Sidebar, Blog Grid View Fullwidth, Blog List View Right & Left Sidebar, Blog "
+"List View Fullwidth, Blog Masonry 2, 3, 4 Column Layout."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:97
+msgid "Blog Standard Right Sidebar, Fullwidth."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:106
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:12
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/admin/getting-started.php:141
+msgid "Colors Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:203
+#, php-format
+msgid "Congratulations, Welcome to %1$s Theme"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:38
+msgid ""
+"Contact form 7 is the most popular plugin. And InteriorPress theme is fully "
+"compatible with this plugin. By using this plugin you will be able to create "
+"an amazing contact form on your website."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:71
+msgid "Contact Form 7 Support"
+msgstr ""
+
+#: footer.php:14 inc/customizer/interiorpress-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2020 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> InteriorPress theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/admin/getting-started.php:159
+msgid "Dark & Light Layout Styles"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:80
+msgid "Dark Color Skin"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:138
+msgid "Dark Color Style."
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:112
+msgid "Deactivate"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:42
+msgid ""
+"Do you want to sell your product online? InteriorPress is the fully "
+"WooCommerce compatible theme, through which you can easily create your "
+"online store and sell your products online."
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:17
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:46
+msgid ""
+"Elementor is the World best WordPress Page Builder, So you can create "
+"beautiful pages with intuitive drag and drop interface. And make pixel "
+"perfect websites at record speeds."
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:15
+msgid "Extensive Documentation"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:62
+msgid "Extra Page Templates"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:205
+msgid "Fast & Friendly Support"
+msgstr ""
+
+#: inc/customizer/interiorpress-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/admin/getting-started.php:150
+msgid "Footer Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:137
+msgid "Footer Styles"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:38
+#: inc/admin/tabs/free-vs-pro-panel.php:63
+#: inc/admin/tabs/free-vs-pro-panel.php:80
+#: inc/admin/tabs/free-vs-pro-panel.php:97
+#: inc/admin/tabs/free-vs-pro-panel.php:138
+msgid "Free"
+msgstr ""
+
+#: inc/admin/getting-started.php:119
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:37
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:63
+msgid "Frontpage, Blog Fullwidth"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:22
+msgid ""
+"Fully Responsive layout. Works on any screen size and display beautifully."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:213
+msgid "Get ArileWP Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:207
+msgid "Get started with InteriorPress"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:14
+msgid "Get Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:101
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:20
+#: inc/admin/tabs/getting-started-panel.php:22
+msgid "Go to the Customizer"
+msgstr ""
+
+#: inc/admin/getting-started.php:160
+msgid "Google Font Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:197
+msgid "Google Map"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:46
+msgid "Header Style Variations"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:54
+msgid "Homepage Section Layout Styles"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/interiorpress-theme/"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:18
+msgid ""
+"If you are enjoying our InteriorPress theme. So we will be waiting for your "
+"beautiful feedback. We will appreciate you with love."
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr ""
+
+#. Name of the theme
+msgid "InteriorPress"
+msgstr ""
+
+#: inc/admin/getting-started.php:91
+msgid ""
+"InteriorPress is a creative and professional multipurpose WordPress theme "
+"that is suited for business, consultant, finance, digital agency, industries,"
+" online shop and many other various site types."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"InteriorPress is a dark professional and feature-rich multipurpose business "
+"WordPress theme. InteriorPress can be used to create a range of various "
+"websites with WordPress. The theme perfectly suited for architecture, "
+"interior designers, business, consultant, finance, corporate, freelancer, "
+"agency, business promotion, electrician, industries, education, SEO, "
+"construction, fashion, online shop, health &amp; medical, Beauty &amp; spa "
+"salons, wedding, photography, gym, lawyer, restaurant, hotel, blog, magazine,"
+" travel agency and many other websites compatible. It has some exotic "
+"features like clean code, advanced typography, sticky menu, logo upload, "
+"header image, Bootstrap 4 framework, built with SEO in mind, and theme info "
+"area besides being Mobile-ready, translation ready (WPML, Polylang) and it's "
+"built to be beautiful on all screen sizes.  This theme supports the best "
+"Elementor page builder to create, edit, and updates page designs as per the "
+"requirement. NewYork City also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics, and much more. Check the demo of ArileWP Pro https:"
+"//themearile.com/arilewp-pro-theme/."
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:17
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:81
+msgid "Light and Dark Color Skins"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:139
+msgid "Light, Dark & Custom Color Style."
+msgstr ""
+
+#: inc/admin/getting-started.php:137
+msgid "Links to Customizer Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:156
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:114
+msgid "Make your business website in RTL Language support."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:122
+msgid "Make your website fast on all devices."
+msgstr ""
+
+#: inc/admin/getting-started.php:139
+msgid "Menus Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:21
+msgid "Mobile Friendly Design"
+msgstr ""
+
+#: inc/admin/getting-started.php:157 inc/admin/tabs/free-vs-pro-panel.php:146
+msgid "Multilingual Ready"
+msgstr ""
+
+#: inc/admin/getting-started.php:140
+msgid "Page Header Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:169
+msgid "Priority Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:39
+#: inc/admin/tabs/free-vs-pro-panel.php:64
+#: inc/admin/tabs/free-vs-pro-panel.php:81
+#: inc/admin/tabs/free-vs-pro-panel.php:98
+#: inc/admin/tabs/free-vs-pro-panel.php:139
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:147
+msgid "Project Options"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:16
+msgid ""
+"Read detailed documentation of the theme. The documentation has all the "
+"necessary information to set up the theme. Which will help you set up the "
+"theme."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:30
+msgid ""
+"Ready for Online Shop. You can create your online shop with WooCommerce."
+msgstr ""
+
+#: inc/admin/getting-started.php:106
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:10
+msgid "Recommended actions"
+msgstr ""
+
+#: inc/admin/getting-started.php:162 inc/admin/tabs/free-vs-pro-panel.php:113
+msgid "RTL Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:163
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:189
+msgid "SEO (Search Engine Optimization) Ready"
+msgstr ""
+
+#: inc/admin/getting-started.php:146
+msgid "Service Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:198
+msgid "Shows the physical location with an interactive contact form."
+msgstr ""
+
+#: inc/admin/getting-started.php:138
+msgid "Site Logo"
+msgstr ""
+
+#: inc/admin/getting-started.php:145
+msgid "Slider Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:38
+msgid ""
+"Slider with Two Slides, Theme Info Area, Services, Projects, Testimonials, "
+"Blog/News"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:39
+msgid ""
+"Slider with Unlimited Slides, Theme Info Area, Services, Projects, Funfacts, "
+"Testimonials, Shop, Call to Action, Team, Blog/News, Clients"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:121
+msgid "Speed Performance"
+msgstr ""
+
+#: inc/admin/getting-started.php:155
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:12
+msgid ""
+"Still having a problem after using all the documentation? No Problem!! Our "
+"dedicated support team will help you to solve your problem. Hope you are "
+"enjoying our InteriorPress\n"
+" \t\t\t\t\ttheme."
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:19
+msgid "Submit a review"
+msgstr ""
+
+#: inc/admin/getting-started.php:124 inc/admin/tabs/support-and-review.php:11
+msgid "Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:148
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:205
+#, php-format
+msgid ""
+"Thank you for choosing InteriorPress theme. To take full advantage of the "
+"complete features of the theme, you have to go to our %1$s welcome page %2$s."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:147
+msgid ""
+"The Premium Version is fully compatible with WPML and Poylang. Create your "
+"website in multiple languages."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:72
+msgid "The theme fully supports the contact form 7 plugin."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:130
+msgid "The whole footer of ArileWP WordPress theme is widget ready."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:79
+msgid "Theme Color Skins"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:155
+msgid "Top Header Bar Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:105
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/admin/getting-started.php:142
+msgid "Typography Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:166
+msgid "Unlimited Business Sections"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:180
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:161
+msgid "Unlimited Color Schemes"
+msgstr ""
+
+#: inc/admin/getting-started.php:114
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:21
+msgid ""
+"Using the WordPress Customizer you can easily customize every single aspect "
+"of the theme."
+msgstr ""
+
+#: inc/admin/getting-started.php:168
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:17
+#: inc/admin/tabs/getting-started-panel.php:22
+msgid "Visit the Support"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:11
+msgid ""
+"We have compiled a list of steps for you, to take make sure the experience "
+"you will have using one of our products is very easy to follow. So kindly "
+"activate the plugin Arile Extra."
+msgstr ""
+
+#. %1$s: welcome page
+#: inc/admin/getting-started.php:22
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#. %1$s %2$s: welcome message
+#: inc/admin/getting-started.php:90
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:190
+msgid "Which is help to increase the amount of visitors to a website."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:171
+msgid "Wide & Boxed Layout"
+msgstr ""
+
+#: inc/admin/getting-started.php:163
+msgid "Wide & Boxed Layouts"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:129
+msgid "Widgetized Footer Area"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:29
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:156
+msgid ""
+"You can easily add/modify site info and social icons. Also change the header "
+"background color."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:164
+msgid "You can easily drag and drop the front page sections with ordering."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:181
+msgid "You can use any type of theme color as you want."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:89
+msgid ""
+"You will be able to change font style as you want and select your desired "
+"font."
+msgstr ""
