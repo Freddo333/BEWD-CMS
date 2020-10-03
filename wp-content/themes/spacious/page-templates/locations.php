@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Houses Template Page
+ * Template Name: Locations Template Page
  *
  * Displays the Houses Template via the theme.
  *
