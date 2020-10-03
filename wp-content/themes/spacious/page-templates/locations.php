@@ -1,12 +1,12 @@
 <?php
 /**
- * Template Name: Page Builder Template
+ * Template Name: Houses Template Page
  *
- * Displays the Page Builder Template via the theme.
+ * Displays the Houses Template via the theme.
  *
- * @package ThemeGrill
- * @subpackage Spacious
- * @since Spacious 1.4.9
+ * @package UC
+ * @subpackage BEWD
+ * @since CMS Assignment
  */
 get_header(); ?>
 
@@ -18,9 +18,25 @@ get_header(); ?>
 			while ( have_posts() ) : the_post();
 
 				//the_content();
-				$value - get_field("locations");
-				echo $value;
-
+				?><h2><?php get_field( "locations" );?></h2><?php
+			?>
+			
+			<?php global $post; // required
+				$args = array('category_name' => 'Locations'); // include post category Houses
+				$custom_posts = get_posts($args);
+				foreach($custom_posts as $post) : setup_postdata($post);  
+				?><h4><a href='<?php the_permalink(); echo"'>"; the_title(); ?></a></h4><?php
+					echo"<div><p>";
+					$maps = get_field('houses_map');
+					if (!empty($maps)):
+						//$images = implode(',',$images);
+						$maps_arr = explode (",", strval($maps));  
+						?><img style="float:left; margin-right:20px; height:200px;" src="<?php echo $images_arr[0]; ?>" /><?php
+					endif;
+					the_field( "location_info" );
+					echo"</p><br>";
+					echo "</div><br><hr>";
+				endforeach;
 			endwhile;
 			?>
         </div><!-- #content -->
