@@ -17,7 +17,9 @@ get_header(); ?>
 			<?php
 			while ( have_posts() ) : the_post();
 
-				the_content();
+				//the_content();
+				$value - get_field("locations");
+				echo $value;
 
 			endwhile;
 			?>
