@@ -18,24 +18,27 @@ get_header(); ?>
 			while ( have_posts() ) : the_post();
 
 				//the_content();
-				?><h2><?php get_field( "locations" );?></h2><?php
+				?><h2><?php get_field( "title" );?></h2><?php
 			?>
 			
 			<?php global $post; // required
 				$args = array('category_name' => 'Locations'); // include post category Houses
 				$custom_posts = get_posts($args);
 				foreach($custom_posts as $post) : setup_postdata($post);  
-				?><h4><a href='<?php the_permalink(); echo"'>"; the_title(); ?></a></h4><?php
+				?><h4><?php the_field( "house_name" );?> </h4><?php
 					echo"<div><p>";
-					$maps = get_field('houses_map');
+					$maps = get_field('house_map');
 					if (!empty($maps)):
 						//$images = implode(',',$images);
 						$maps_arr = explode (",", strval($maps));  
 						?><img style="float:left; margin-right:20px; height:200px;" src="<?php echo $images_arr[0]; ?>" /><?php
 					endif;
 					the_field( "location_info" );
-					echo"</p><br>";
-					echo "</div><br><hr>";
+					echo"<br><br>";			
+					the_field( "house_map" ); 
+					//echo"<br><br>";
+					echo"</p>";
+					echo "</div><hr>";
 				endforeach;
 			endwhile;
 			?>
