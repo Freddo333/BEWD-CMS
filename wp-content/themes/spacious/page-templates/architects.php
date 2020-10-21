@@ -1,8 +1,8 @@
 <?php
 /**
- * Template Name: Locations Template Page
+ * Template Name: Architects Template Page
  *
- * Displays the Houses Template via the theme.
+ * Displays the Architects Template via the theme.
  *
  * @package UC
  * @subpackage BEWD
@@ -22,24 +22,20 @@ get_header(); ?>
 			?>
 			
 			<?php global $post; // required
-				$args = array('category_name' => 'Locations'); // include post category Houses
+				$args = array('category_name' => 'Architects'); // include post category Architects
 				$custom_posts = get_posts($args);
 				foreach($custom_posts as $post) : setup_postdata($post);  
-				?><h4><a href='<?php echo '/wordpress/' . strtolower(implode('-', preg_split('/\s+/', get_field('house_name')))) . '/' . "'>"; the_field( "house_name" );?> </a></h4><?php
-					echo $housename;
-					echo"<div><p>";
-					$maps = get_field('house_map');
-					if (!empty($maps)):
+				?><h4><a href='<?php the_permalink(); echo"'>"; the_title(); ?></a></h4><?php
+					echo'<div style="min-height:220px;"><p>';
+					$images = get_field('architect_image');
+					if (!empty($images)):
 						//$images = implode(',',$images);
-						$maps_arr = explode (",", strval($maps));  
+						$images_arr = explode (",", strval($images));  
 						?><img style="float:left; margin-right:20px; height:200px;" src="<?php echo $images_arr[0]; ?>" /><?php
 					endif;
-					the_field( "location_info" );
-					echo"<br><br>";			
-					the_field( "house_map" ); 
-					//echo"<br><br>";
-					echo"</p>";
-					echo "</div><hr>";
+					the_field( "architect_information" );
+					echo"</p><br>";
+					echo "</div><br><hr>";
 				endforeach;
 			endwhile;
 			?>
