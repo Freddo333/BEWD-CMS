@@ -208,6 +208,11 @@ Our plugin uses a cookie in order to function properly. It does not store person
 
 == Changelog ==
 
+= Version 5.6.7 =
+* Improved JS & CSS Combination exclude list
+* Bumped JS Combination stop limit
+* Improved functionality to stop JS Combination if randomized names create endless combination files
+
 = Version 5.6.6 =
 * Improved JS Combination exclude list
 * Bumped JS Combination stop limit

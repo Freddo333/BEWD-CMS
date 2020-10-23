@@ -31,7 +31,7 @@ class Front_End_Optimization {
 	 *
 	 * @var int Bytes.
 	 */
-	const LIMIT = 200000000;
+	const LIMIT = 1000000000;
 
 	/**
 	 * Script handles that shouldn't be loaded async.
@@ -93,7 +93,7 @@ class Front_End_Optimization {
 			! wp_next_scheduled( 'siteground_optimizer_check_assets_dir' ) &&
 			1 === intval( get_option( 'siteground_optimizer_combine_javascript', 0 ) )
 		) {
-			wp_schedule_event( time(), 'twicedaily', 'siteground_optimizer_check_assets_dir' );
+			wp_schedule_event( time(), 'daily', 'siteground_optimizer_check_assets_dir' );
 		}
 
 		// Enabled images optimizer.
@@ -575,11 +575,11 @@ class Front_End_Optimization {
 			return;
 		}
 
-		Supercacher::purge_cache();
-		Supercacher::flush_memcache();
-
 		update_option( 'siteground_optimizer_combine_javascript', 0 );
 		update_option( 'siteground_optimizer_combine_javascript_error', 1 );
+
+		Supercacher::purge_cache();
+		Supercacher::flush_memcache();
 
 		wp_clear_scheduled_hook( 'siteground_optimizer_check_assets_dir' );
 	}

@@ -1,0 +1,376 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP News and Scrolling Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-28 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5"
+
+#: includes/admin/wpnw-how-it-work.php:262
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:183
+msgid ""
+"<b>Please make sure that Permalink link should not be \"/news\" Otherwise "
+"all your news will go to archive page. You can give it other name like "
+"\"/ournews, /latestnews etc\"</b>"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple News and three widgets(static, scrolling and with thumbs) plugin. "
+"Also work with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/sp-news-post-type.php:64
+msgid "Add New Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:16
+msgid "Add New News Item"
+msgstr ""
+
+#: includes/sp-news-post-type.php:24
+msgctxt "admin menu"
+msgid "News"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:98
+#: includes/widgets/class-wpnw-latest-news-widget.php:101
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:108
+msgid "All Categories"
+msgstr ""
+
+#: includes/sp-news-post-type.php:59
+msgid "All Category"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:191
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/sp-news-post-type.php:66
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:94
+#: includes/widgets/class-wpnw-latest-news-widget.php:97
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:104
+msgid "Category"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:206
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:208
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:90
+#: includes/widgets/class-wpnw-latest-news-widget.php:93
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:100
+msgid "Display Category"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:85
+#: includes/widgets/class-wpnw-latest-news-widget.php:88
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:95
+msgid "Display Date"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:195
+msgid "Display News in grid 1"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:196
+msgid "Display News in grid 2"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:197
+msgid "Display News in grid 3"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:34
+msgid "Displayed Latest News Items from the News  in a sidebar"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:30
+msgid "Displayed Latest News Items in a sidebar with thumbnails"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:207
+msgid "Documentation"
+msgstr ""
+
+#: includes/sp-news-post-type.php:62
+msgid "Edit Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:17
+msgid "Edit News Item"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:262
+msgid "Enjoyed this plugin? You can help by rate this plugin "
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:251
+msgid ""
+"Gain access to <strong>WP News and Scrolling Widgets</strong> included in "
+"<br /><strong>Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:163
+msgid "Geeting Started"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:252
+msgid "Go Premium "
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:120
+msgid "Height"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:259
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:18
+msgid "Highlight of Hiring:"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:44
+msgid "Hire Us"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:15
+msgid "Hire Us - Get unlimited expert WordPress Support and Development"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:22
+#: includes/admin/wpnw-how-it-work.php:117
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:155
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:22
+msgid "How it works - WP News and Scrolling Widgets"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:178
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#: sp-news-and-widget.php:152
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:42
+msgid "Latest News"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:39
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:43
+msgid "Latest News Scrolling Widget"
+msgstr ""
+
+#: includes/widgets/class-wpnw-latest-news-widget.php:38
+msgid "Latest News Widget"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:33
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:37
+msgid "Latest News with thumb"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:203
+msgid "Need Support?"
+msgstr ""
+
+#: includes/sp-news-post-type.php:65
+msgid "New Category Name"
+msgstr ""
+
+#: includes/sp-news-post-type.php:18
+msgid "New News Item"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:194
+msgid "News in List View"
+msgstr ""
+
+#: includes/shortcode/sp-news-shortcode.php:179
+msgid "Next"
+msgstr ""
+
+#: includes/functions.php:87
+msgid "Next »"
+msgstr ""
+
+#: includes/sp-news-post-type.php:21
+msgid "No News Items found"
+msgstr ""
+
+#: includes/sp-news-post-type.php:22
+msgid "No News Items found in Trash"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:80
+#: includes/widgets/class-wpnw-latest-news-widget.php:83
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:90
+msgid "Number of Items"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:120
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/sp-news-post-type.php:60
+msgid "Parent Category"
+msgstr ""
+
+#: includes/sp-news-post-type.php:61
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:125
+msgid "Pause"
+msgstr ""
+
+#: includes/shortcode/sp-news-shortcode.php:180
+msgid "Previous"
+msgstr ""
+
+#: includes/shortcode/sp-news-shortcode.php:162
+msgid "Read More"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:36
+msgid "Scroll Latest News Items from the News  in a sidebar"
+msgstr ""
+
+#: includes/sp-news-post-type.php:20
+msgid "Search  News Items"
+msgstr ""
+
+#: includes/sp-news-post-type.php:58
+msgid "Search Category"
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:130
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:182
+msgid "Step-1. Create a page like Our News OR Latest News."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:167
+msgid ""
+"Step-1: This plugin create a News menu tab in WordPress menu with custom "
+"post type."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:184
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:168
+msgid "Step-2: Go to \"News > Add news item tab\"."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:169
+msgid ""
+"Step-3: Add news title, description, category, and image as featured image."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:170
+msgid "Step-4: Repeat this process and add multiple news item."
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:171
+msgid ""
+"Step-4: To display news category wise you can use category shortcode under "
+"\"News > News category\""
+msgstr ""
+
+#: sp-news-and-widget.php:151
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:102
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/widgets/class-wpnw-news-thumbnail-widget.php:76
+#: includes/widgets/class-wpnw-latest-news-widget.php:79
+#: includes/widgets/class-wpnw-news-scrolling-widget.php:86
+msgid "Title"
+msgstr ""
+
+#: includes/sp-news-post-type.php:63
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:41
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wpnw-admin.php:41
+msgid "Upgrade to PRO - WP News and Scrolling Widgets"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:224
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/sp-news-post-type.php:19
+msgid "View News Item"
+msgstr ""
+
+#: includes/admin/wpnw-how-it-work.php:253
+msgid "View PRO Demo "
+msgstr ""
+
+#. Name of the plugin
+msgid "WP News and Scrolling Widgets"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "WP News and Scrolling Widgets - Features"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:137
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "« Previous"
+msgstr ""

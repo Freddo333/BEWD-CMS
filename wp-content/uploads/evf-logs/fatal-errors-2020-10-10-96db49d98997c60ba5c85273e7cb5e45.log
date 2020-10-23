@@ -1,0 +1,10 @@
+2020-10-10T00:59:20+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+
+2020-10-10T04:33:10+00:00 CRITICAL syntax error, unexpected '$images' (T_VARIABLE)
+
+2020-10-10T05:12:01+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';'
+
+2020-10-10T05:16:35+00:00 CRITICAL syntax error, unexpected '<', expecting ']'
+
+2020-10-10T05:17:06+00:00 CRITICAL syntax error, unexpected '<', expecting ']'
+

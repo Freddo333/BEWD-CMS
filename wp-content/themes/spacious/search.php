@@ -12,12 +12,14 @@ get_header(); ?>
 
 	<div id="primary">
 		<div id="content" class="clearfix">
+			<div style="margin:25px;">
 			<?php if ( have_posts() ) : ?>
 
 				<?php while ( have_posts() ) : the_post(); ?>
-
+					<p>
 					<?php get_template_part( 'content', get_post_format() ); ?>
-
+					</p>
+					</br> 
 				<?php endwhile; ?>
 
 				<?php get_template_part( 'navigation', 'search' ); ?>
@@ -27,7 +29,7 @@ get_header(); ?>
 				<?php get_template_part( 'no-results', 'search' ); ?>
 
 			<?php endif; ?>
-
+</div>
 		</div><!-- #content -->
 	</div><!-- #primary -->
 

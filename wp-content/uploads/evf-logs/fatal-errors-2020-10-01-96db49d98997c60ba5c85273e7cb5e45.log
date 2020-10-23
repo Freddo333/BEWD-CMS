@@ -1,0 +1,57 @@
+2020-10-01T06:21:20+00:00 CRITICAL Uncaught Error: Call to undefined function phpadd_filter() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/functions.php:1
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-settings.php(514): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-config.php(78): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-load.php(37): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown
+
+2020-10-01T06:21:26+00:00 CRITICAL Uncaught Error: Call to undefined function phpadd_filter() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/functions.php:1
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-settings.php(514): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-config.php(78): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-load.php(37): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-admin/admin.php(34): require_once('/home/customer/...')
+#4 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-admin/post.php(12): require_once('/home/customer/...')
+#5 {main}
+  thrown
+
+2020-10-01T06:21:26+00:00 CRITICAL Uncaught Error: Call to undefined function phpadd_filter() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/functions.php:1
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-settings.php(514): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-config.php(78): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-load.php(37): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#4 {main}
+  thrown
+
+2020-10-01T06:21:26+00:00 CRITICAL Uncaught Error: Call to undefined function phpadd_filter() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/functions.php:1
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-settings.php(514): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-config.php(78): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-load.php(37): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#4 {main}
+  thrown
+
+2020-10-01T06:21:42+00:00 CRITICAL Uncaught Error: Call to undefined function phpadd_filter() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/functions.php:1
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-settings.php(514): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-config.php(78): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-load.php(37): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-admin/admin-ajax.php(22): require_once('/home/customer/...')
+#4 {main}
+  thrown
+
+2020-10-01T06:22:39+00:00 CRITICAL Uncaught Error: Call to undefined function phpadd_filter() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/functions.php:1
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-settings.php(514): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-config.php(78): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-load.php(37): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(13): require_once('/home/customer/...')
+#4 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#5 {main}
+  thrown
+

@@ -1,0 +1,72 @@
+2020-10-03T03:36:09+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ',' or ';'
+
+2020-10-03T03:37:36+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ',' or ';'
+
+2020-10-03T03:50:03+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE)
+
+2020-10-03T03:51:08+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE)
+
+2020-10-03T03:51:12+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE)
+
+2020-10-03T04:09:25+00:00 CRITICAL syntax error, unexpected ';', expecting ']'
+
+2020-10-03T04:09:55+00:00 CRITICAL syntax error, unexpected ';', expecting ']'
+
+2020-10-03T04:12:22+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/page-templates/houses.php:32
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown
+
+2020-10-03T04:15:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_group_field() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/page-templates/houses.php:34
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown
+
+2020-10-03T04:33:47+00:00 CRITICAL syntax error, unexpected '!', expecting '('
+
+2020-10-03T04:37:24+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ',' or ';'
+
+2020-10-03T05:09:13+00:00 CRITICAL syntax error, unexpected 'the_title' (T_STRING), expecting ',' or ';'
+
+2020-10-03T10:40:11+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:06+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:23+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:43+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:44+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:45+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:48+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:42:48+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:43:05+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:43:06+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T10:43:07+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-03T11:10:15+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO)
+
+2020-10-03T11:11:01+00:00 CRITICAL syntax error, unexpected ':'
+
+2020-10-03T11:46:59+00:00 CRITICAL syntax error, unexpected '<'
+
+2020-10-03T11:56:38+00:00 CRITICAL syntax error, unexpected '<'
+
+2020-10-03T12:35:55+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF)
+
+2020-10-03T12:36:19+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+
+2020-10-03T12:36:45+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF)
+

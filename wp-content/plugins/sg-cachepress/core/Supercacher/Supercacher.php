@@ -75,7 +75,7 @@ class Supercacher {
 
 		// Schedule a cron job that will delete all assets (minified js and css files) every 30 days.
 		if ( ! wp_next_scheduled( 'siteground_delete_assets' ) ) {
-			wp_schedule_event( time(), 'siteground_monthly', 'siteground_delete_assets' );
+			wp_schedule_event( time(), 'siteground_every_two_days', 'siteground_delete_assets' );
 		}
 
 		$this->purge_on_other_events();
@@ -336,10 +336,10 @@ class Supercacher {
 	 */
 	public function add_siteground_cron_schedule( $schedules ) {
 
-		if ( ! array_key_exists( 'siteground_monthly', $schedules ) ) {
-			$schedules['siteground_monthly'] = array(
-				'interval' => 2635200,
-				'display' => __( 'Monthly', 'sg-cachepress' ),
+		if ( ! array_key_exists( 'siteground_every_two_days', $schedules ) ) {
+			$schedules['siteground_every_two_days'] = array(
+				'interval' => 172800,
+				'display' => __( 'Every two days', 'sg-cachepress' ),
 			);
 		}
 

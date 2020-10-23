@@ -137,7 +137,8 @@ textarea {
 }
 
 body {
-	background: #eaeaea;
+	/*background: #eaeaea;*/
+	background: #fff;
 }
 
 /* Headings */
@@ -1843,7 +1844,7 @@ a#scroll-up:hover {
 ----------------------------------------------- */
 #primary {
 	float: left;
-	width: 61.5763547%;
+	width: 100%;
 }
 
 #secondary {

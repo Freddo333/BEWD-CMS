@@ -1,0 +1,31 @@
+2020-10-02T11:33:33+00:00 CRITICAL syntax error, unexpected '<'
+
+2020-10-02T11:41:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/page-templates/houses.php on line 21 and at least 1 expected in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-includes/post.php:2125
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/page-templates/houses.php(21): get_post_meta()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-includes/template-loader.php(106): include('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(19): require_once('/home/customer/...')
+#3 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#4 {main}
+  thrown
+
+2020-10-02T12:33:24+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-02T12:33:56+00:00 CRITICAL syntax error, unexpected end of file
+
+2020-10-02T12:50:15+00:00 CRITICAL Uncaught Error: Call to undefined function the_catagory() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/page-templates/houses.php:30
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown
+
+2020-10-02T12:51:20+00:00 CRITICAL Uncaught Error: Call to undefined function the_catagory() in /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-content/themes/spacious/page-templates/houses.php:30
+Stack trace:
+#0 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/wp-blog-header.php(19): require_once('/home/customer/...')
+#2 /home/customer/www/jamieg.sgedu.site/public_html/wordpress/index.php(17): require('/home/customer/...')
+#3 {main}
+  thrown
+

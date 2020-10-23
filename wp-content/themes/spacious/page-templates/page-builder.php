@@ -1,29 +1,30 @@
 <?php
 /**
- * Template Name: Page Builder Template
+ * Template Name: News Page Template
  *
- * Displays the Page Builder Template via the theme.
+ * Displays the Contact Page Template of the theme.
  *
  * @package ThemeGrill
  * @subpackage Spacious
- * @since Spacious 1.4.9
+ * @since Spacious 1.0
  */
 get_header(); ?>
 
-<?php do_action( 'spacious_before_body_content' ); ?>
+	<?php do_action( 'spacious_before_body_content' ); ?>
 
 	<div id="primary">
 		<div id="content" class="clearfix">
-			<?php
-			while ( have_posts() ) : the_post();
+			<?php while ( have_posts() ) : the_post(); ?>
 
-				the_content();
+				<?php get_template_part( 'content', 'page' ); ?>
 
-			endwhile;
-			?>
-        </div><!-- #content -->
-    </div><!-- #primary -->
+			<?php endwhile; ?>
 
-<?php do_action( 'spacious_after_body_content' ); ?>
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	<?php spacious_sidebar_select(); ?>
+
+	<?php do_action( 'spacious_after_body_content' ); ?>
 
 <?php get_footer(); ?>

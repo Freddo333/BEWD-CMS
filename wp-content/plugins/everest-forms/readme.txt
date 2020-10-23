@@ -4,7 +4,7 @@ Tags: contact form, forms, form builder, contact, custom form
 Requires at least: 5.0
 Tested up to: 5.5
 Requires PHP: 5.4
-Stable tag: 1.7.1
+Stable tag: 1.7.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -154,6 +154,13 @@ Yes, we do. Check out this [Getting Started Videos](https://docs.wpeverest.com/d
 Yes you can! Join in on our [GitHub repository](https://github.com/wpeverest/everest-forms/) :)
 
 == Changelog ==
+
+= 1.7.2 - 16-10-2020 =
+* Enhancement - Add search fields on builder page.
+* Enhancement - Add supports for Campaign Monitor Addon.
+* Enhancement - Add Plan name instead of PRO label on form templates.
+* Fix - Message for the required file upload field.
+* Tweak - Improve Jconfirm content for new lines with some css.
 
 = 1.7.1 - 14-09-2020 =
 * Enhancement - Add supports for email Templates Addon.

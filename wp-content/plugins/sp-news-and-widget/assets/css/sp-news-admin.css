@@ -1,0 +1,14 @@
+/* Widget CSS for Page Builder */
+.wpnw-widget-wrap hr{margin: 7px 0 !important;}
+.wpnw-widget-wrap p{margin: 10px 0;}
+.wpnw-widget-wrap p em{font-size: 12px; display: block;}
+.wpnw-widget-wrap p em span,
+.wpnw-widget-wrap p em label{cursor: pointer; font-weight: bold;}
+.so-content .wpnw-widget-wrap p label,
+.fl-builder-settings-fields .wpnw-widget-wrap p label{font-weight: 500; width: 100%; vertical-align: middle;}
+.so-content .wpnw-widget-wrap p input,
+.so-content .wpnw-widget-wrap p select,
+.fl-builder-settings-fields .wpnw-widget-wrap p input,
+.fl-builder-settings-fields .wpnw-widget-wrap p select{width: 100%; max-width: 100%; margin: 5px 0 8px 0 !important;}
+.so-content .wpnw-widget-wrap p input[type="checkbox"],
+.fl-builder-settings-fields .wpnw-widget-wrap p input[type="checkbox"]{width: auto; vertical-align: middle;}

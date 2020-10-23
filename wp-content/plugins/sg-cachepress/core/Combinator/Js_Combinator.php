@@ -16,6 +16,8 @@ class Js_Combinator extends Abstract_Combinator {
 	 * @var array Array containing all excluded inline content.
 	 */
 	private $excluded_inline_content = array(
+		'#fld_',
+		'.shop-filter',
 		'var markersData',
 		'setREVStartSize',
 		'countUp',
@@ -249,6 +251,7 @@ class Js_Combinator extends Abstract_Combinator {
 	 * @var array Array containing all paths that should be excluded.
 	 */
 	private $excluded_paths = array(
+		'scripts.sirv.com',
 		'cdn.ampproject.org',
 		'app.getresponse.com',
 		'googleadservices.com',
